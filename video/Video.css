@@ -1,0 +1,34 @@
+.video{
+    /* display: flex; */
+    flex: 0.8;
+    margin-left: 20px;
+}
+.v{
+    margin-top: 10px;
+    margin-left: 35px;
+}
+.v img{
+height: 150px;
+width: 210px;
+}
+.p img{
+    height: 30px;
+    width: 30px;
+    border-radius: 20px;
+}
+.p{
+    display: flex;
+    align-items: center;
+}
+.p-1{
+    display: flex;
+    align-items: center;
+}
+.nam{
+    font-size: 12px;
+    margin-left: 27px;
+}
+.view{
+    font-size: 12px;
+    margin-left: 27px;
+}

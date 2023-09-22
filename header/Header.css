@@ -1,0 +1,42 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: sticky;
+    margin-left: 20px;
+    top: 0;
+    z-index: 100;
+    background-color: white;
+}
+.menu{
+    display: flex;
+    align-items: center;
+}
+.menu img{
+    margin-left: 15px;
+    height: 80px;
+    width: 100px;
+}
+.search{
+    display: flex;
+    align-items: center;
+    height: 25px;
+    border: 1px solid gray;
+}
+.search input{
+    position: relative;
+    height: 20px;
+    width: 300px;
+}
+.search span{
+    background-color: gray;
+    color: white;
+}
+
+.profile{
+    display: flex;
+    align-items: center;
+}
+.profile span{
+    margin-right: 15px;
+}

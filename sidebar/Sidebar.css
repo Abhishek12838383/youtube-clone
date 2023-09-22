@@ -1,0 +1,45 @@
+.sidebar{
+    display: flex;
+}
+.sidebar-1{
+    flex: 0.2;
+    margin-left: 15px;
+}
+.ho{
+    display: flex;
+    align-items: center;
+    height: 35px;
+}
+.ho h4{
+    margin-left: 15px;
+    font-weight: 400;
+}
+.ho:hover{
+    background-color: gray;
+}
+
+.explore{
+    display: flex;
+    align-items: center;
+    height: 35px;
+}
+.explore:hover{
+    background-color: gray;
+}
+.explore h4{
+    margin-left: 15px;
+    font-weight: 400;
+}
+
+.sub{
+    display: flex;
+    align-items: center;
+    height: 35px;
+}
+.sub:hover{
+    background-color: gray;
+}
+.sub h4{
+    margin-left: 15px;
+    font-weight: 400;
+}
